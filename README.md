@@ -11,11 +11,12 @@
 
 - I learned **Python, HTML and css including other things related to these languages**
  
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1405146958045122671?borderRadius=15px&theme=dark&showDisplayName=true)](https://discord.com/users/1446860547684565034)
-
-</div>
+  <img 
+    src="https://lanyard.cnrad.dev/api/1255206310904074290?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=18px"
+    align="right"
+    width="260"
+  />
+  
 
 ---
 
