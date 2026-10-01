@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hey, I'm **ROUTR??!**
+# 👋 Hey, I'm **Vaishnav**
 
 ### 💻 Developer • Discord Bot Creator • Open-Source Enthusiast
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=0981F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+to+code+%F0%9F%92%BB;Building+cool+things+with+code;Discord+Bot+Developer+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=0981F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+Vaishnav+%F0%9F%91%8B;I+love+to+code+%F0%9F%92%BB;Building+cool+things+with+code;Discord+Bot+Developer+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p>
