@@ -23,7 +23,7 @@
 <a href="https://discord.com/users/1446860547684565034">
   <img 
     src="https://lanyard.cnrad.dev/api/1446860547684565034?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=18px"
-    width="500"
+    width="350"
     alt="Discord Presence"
   />
 </a>
