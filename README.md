@@ -9,11 +9,27 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ikiszzz&label=Profile%20Views&color=0981F7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://cdn.discordapp.com/attachments/1435257165945372753/1555171744635953212/1948-aesthetic.gif?backend=b2&ex=6abf8e0d&is=6abe3c8d&hm=447178a53a2201ae54edea124a7b2fc5be66154ad72282b407b49966c3e52221" alt="Profile Views"/>
 </p>
 
 </div>
 
+---
+
+## 🎮 Discord
+
+<div align="center">
+
+<a href="https://discord.com/users/1255206310904074290">
+  <img 
+    src="https://lanyard.cnrad.dev/api/1255206310904074290?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=18px"
+    width="300"
+    alt="Discord Presence"
+  />
+</a>
+
+
+</div>
 ---
 
 ## 🚀 About Me
@@ -74,18 +90,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 🎮 Discord
-
-<div align="center">
-
-<a href="https://discord.gg/QsdhrSJ4kX">
-  <img src="https://img.shields.io/badge/Discord-Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
 
 </div>
 
