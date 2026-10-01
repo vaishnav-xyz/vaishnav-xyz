@@ -20,17 +20,16 @@
 
 <div align="center">
 
-<a href="https://discord.com/users/1255206310904074290">
+<a href="https://discord.com/users/1446860547684565034">
   <img 
-    src="https://lanyard.cnrad.dev/api/1255206310904074290?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=18px"
-    width="300"
+    src="https://lanyard.cnrad.dev/api/1446860547684565034?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=18px"
+    width="500"
     alt="Discord Presence"
   />
 </a>
 
 
 </div>
----
 
 ## 🚀 About Me
 
@@ -69,9 +68,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ikiszzz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnavxyz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikiszzz&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavxyz&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
@@ -79,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ikiszzz&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavxyz&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
