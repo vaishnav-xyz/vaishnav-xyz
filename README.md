@@ -1,9 +1,10 @@
 <div align="center">
 
-<h1>Vaishnav</h1>
-<h3>Web Developer, Discord Bot Developer, AI Automation</h3>
+<img src="./assets/hero-card.svg" alt="Vaishnav – Web Developer, Discord Bot Developer, AI Automation" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Custom+Discord+bots+that+actually+ship;Full-stack+web+apps%2C+built+end+to+end;Open-source+code+for+the+community;Available+for+freelance+projects" alt="typing"/>
+<img src="./assets/pillars.svg" alt="Specialization pillars" width="100%"/>
+
+<img src="./assets/tagline.svg" alt="Tagline" width="100%"/>
 
 <br/>
 
@@ -161,7 +162,7 @@ Have a bot, a web app, or an idea you want shipped? Send me a message on Discord
 <br/>
 
 <a href="https://discord.com/users/1446860547684565034"><img src="https://img.shields.io/badge/MESSAGE%20ME%20ON%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Message me"/></a>
-<a href="mailto:work.vaishnav@gmail.com.com">
+<a href="mailto:work.vaishnav@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
 </a>
 <a href="https://instagram.com/vaishnav.ly">
