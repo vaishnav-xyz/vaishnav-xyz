@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0981F7,50:6C5CE7,100:00D2FF&text=Vaishnav&fontColor=ffffff&fontSize=72&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Discord%20Bot%20Engineer%20%E2%80%A2%20Open-Source&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+<h1>Vaishnav</h1>
+<h3>Web Developer, Discord Bot Developer, AI Automation</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Custom+Discord+bots+that+actually+ship;Full-stack+web+apps%2C+built+end+to+end;Open-source+code+for+the+community;Available+for+freelance+projects" alt="typing"/>
 
